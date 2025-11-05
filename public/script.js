@@ -1,4 +1,4 @@
-const apiUrl = "/api/products";
+const apiUrl = "../api/products.php";
 const form = document.getElementById("productForm");
 const table = document.getElementById("productTable");
 const resetBtn = document.getElementById("resetBtn");
